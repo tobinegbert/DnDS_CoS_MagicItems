@@ -22,6 +22,9 @@ Level|Features|Resistance
 - For 1 hour the affected creatures eyes turn green and they gain dark-vision out to 60ft. They treat magical darkness created by you as regular darkness.
 - The effect will end after an hour or when you use this ability on another creature. You can also freely end the effect on a creature.
 
+### Blessing of the Dark One
+- When you reduce an enemy creature to 0 hit-points, you can use your reaction to touch a willing creature within 5 feet to transfer the temporary hit-points to that creature instead of yourself. 
+
 ## Level 6:
 ### Overcome Resistance:
 - You can use your reaction to treat a number of creatures equal to your wisdom modifier as if they didn't have fire resistance.
@@ -31,17 +34,21 @@ Level|Features|Resistance
 - Any creature that was within the darkness when the spell is converted is covered in oil. This oil can later be lit aflame, either manually or by targeting any creature on or covered by the oil with a spell that does fire damage. When the oil is lit it does fire damage to those on or covered in the oil.
 	- Oil on the ground burns for 5 rounds, creatures that start their turn in the fire take 7 (2d6) fire damage.
 	- Oil on a creature burns for 3 rounds but the creature can take an action to end the burning effect, creatures that start their turn on fire take 14 (4d6) fire damage.
-
-### Blessing of the Dark One
-- When you reduce an enemy creature to 0 hit-points, you can use your reaction to touch a willing creature within 5 feet to transfer the temporary hit-points to that creature instead of yourself. 
 - Your patrons influence allows you to change the damage type of eldritch blast to fire.
+
+### Blessing of the Dark One (False Life)
+- Improves on [[#Blessing of the Dark One]]
+	- The temp hit-points granted to allies can revive them.
 
 ## Level 8:
 ### Overcome Immunity, Immunity:
 - Improves [[#Overcome Resistance|Overcome Resistance]], if the creatures have fire immunity, treat them as if they had resistance.
 - Improves [[#Fire Resistance|Fire Resistance]] to immunity.
 
-### 
+### Blessing of the Dark One (AoE)
+- Improves upon [[#Blessing of the Dark One]]
+	- Instead of granting the full amount to one creature you can touch, you grant half to a number of creatures of your choice within a 10ft radius.
+	- This AoE effect does not provide the abilities of [[#Blessing of the Dark One False Life|False Life]]
 
 ## Level 10:
 ### Damage Absorption and Immunity
@@ -52,5 +59,5 @@ Level|Features|Resistance
 - You gain an extra spell slot. It is identical to your other warlock spell slots except that it can only be used to cast darkness or spells from your patrons spell list.
 
 ### False Life of the Dark One
-- Improves upon [[#Blessing of the Dark One|Blessing of the Dark One]]
-	- If you use Blessing of the Dark One on a downed ally, the temp hit-points will revive the downed player. 
+- Improves upon [[#Blessing of the Dark One AoE|Blessing of the Dark One (AoE)]]
+	- Creatures that gain temp HP from the AoE effect can now be revived.
