@@ -1,27 +1,29 @@
-## Origin
+# Origin
 Originally was Mordenkainen's spellbook but was blessed by Mystra to bridge the gap between divine and arcane magic
 
+# Features
 ## Charges
 - The book has 3 charges, and it regains 1d3 expended charges daily at dawn. You can use the charges in the following ways while holding it:
 	- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the abjuration school.
 	- When you cast an abjuration spell, you can expend 1 charge to grant a creature you can see within 30 feet of you 2d10 temporary hit points.
 	- Change the first effect
 
-### Expanded Spell List
+## Expanded Spell List
 You learn certain spells as this item grows in power. These spells are always prepared for you.
 
 Level|Spells
 ---|---
-4|Arcane Lock, Shield, Mystra's Guiding Hand, Mordenkainen's Defense Against Non-Magical Sharp, Bladed, and Blunt Objects
+4|Arcane Lock, Shield, [[Mystra's Guiding Hand]], Mordenkainen's Defense Against Non-Magical Sharp, Bladed, and Blunt Objects
 6|Counterspell, Glyph of Warding, Mordenkainen's Defense Against Lycanthropes, [[Mordenkainen's Magnificent Modification]]
 8|Mordenkainen's (Rary's) Telepathic Bond, Mordenkainen's Private Sanctum, [[Mystra and Mordenkainen's Magnificent Modification]]
 10|
 
 ## Level 4
+### Protect the Verses
 - As an action, you can touch the book and cast Arcane lock
 
 ### Esoteric Knowledge
-You gain proficiency in the arcana and religion skills. If you already have proficiency then you gain expertise in that skill.
+- You gain proficiency in the arcana and religion skills. If you already have proficiency then you gain expertise in that skill.
 
 ### Ritual Caster
 You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.

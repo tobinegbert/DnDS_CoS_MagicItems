@@ -1,12 +1,13 @@
-## Origin:
+# Origin:
 This greatsword was once wielded by The Dawnfather himself. The sword is marginally sentient and will change its effects based on the wielders personality and needs.
 
+# Features
 Level|Strength|Features
 ---|---|---
 4|21|Divine Portent, Divine Fury
 6|22|Mage Slayer, Weapon Improvement
 8|23|Dawnfather's Communion
-10|24|Resilience of the Dawnfather
+10|24|Resilience of the Dawnfather, Weapon Improvement
 
 ## Level 4:
 ### Reserved for the Holy
