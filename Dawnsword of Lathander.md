@@ -1,4 +1,4 @@
-# Origin:
+## Origin:
 This greatsword was once wielded by The Dawnfather himself. The sword is marginally sentient and will change its effects based on the wielders personality and needs.
 
 Level|Strength|Features
