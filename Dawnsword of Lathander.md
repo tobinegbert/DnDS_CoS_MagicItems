@@ -2,12 +2,12 @@
 This greatsword was once wielded by The Dawnfather himself. The sword is marginally sentient and will change its effects based on the wielders personality and needs.
 
 # Features
-Level|Strength|Features
----|---|---
-4|21|Divine Portent, Divine Fury
-6|22|Mage Slayer, Weapon Improvement
-8|23|Dawnfather's Communion
-10|24|Resilience of the Dawnfather, Weapon Improvement
+Level|Str. Bonus|Max Str.|Features
+---|---|---|---
+4|+1|21|Divine Portent, Divine Fury
+6|+2|22|Mage Slayer, Weapon Improvement
+8|+3|23|Dawnfather's Communion, Righteous Indignation
+10|+4|24|Resilience of the Dawnfather, Weapon Improvement
 
 ## Level 4:
 ### Reserved for the Holy
@@ -31,9 +31,6 @@ Level|Strength|Features
 ### Weapon Improvement
 - This weapon becomes a +1 magic weapon.
 
-### Divine Fury Improvement
-- The bonus to strength from [Divine Fury](Dawnsword%20of%20Lathander.md#Divine%20Fury) is increased to 2 and the strength maximum is increased to 22.
-
 ### Mage Slayer
 - You are adept at slaying spellcasters, you gain the following benefits:
 	- When a creature within 5 feet of you casts a spell, you can use your reaction to make an opportunity attack against that creature.
@@ -44,9 +41,7 @@ Level|Strength|Features
 ### Dawnfather's Communion
 - You can cast the commune spell without spending a spell slot or using material components once per day.
 
-### Divine Fury Improvement
-- The bonus to strength from [Divine Fury](Dawnsword%20of%20Lathander.md#Divine%20Fury) is increased to 3 and the strength maximum is increased to 23.
-
+### Righteous Indignation
 - You have been blessed further by the power of Lathander. Your [Divine Fury](Dawnsword%20of%20Lathander.md#Divine%20Fury) gains the following upgrades:
 	- Attacks against fiends and undead crit on a 19 or 20.
 	- When using the relentless avenger feature you can move up to your full speed instead of half.
@@ -54,8 +49,7 @@ Level|Strength|Features
 ## Level 10:
 ### Weapon Improvement
 - This weapon becomes a +2 magic weapon.
+
 ### Resilience of the Dawnfather
 - While within your aura of courage allies cannot be charmed.
 - You can cast Aura of Life once per dawn.
-### Divine Fury Improvement
-- The bonus to strength from [Divine Fury](Dawnsword%20of%20Lathander.md#Divine%20Fury) is increased to 4 and the strength maximum is increased to 24.

@@ -1,3 +1,8 @@
+# Notes
+- Change first effect of charges feature
+- Move charges to level 6?
+	- Split charges. First part at level 4, second at level 6? Vice versa?
+
 # Origin
 Originally was Mordenkainen's spellbook but was blessed by Mystra to bridge the gap between divine and arcane magic
 
