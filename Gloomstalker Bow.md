@@ -60,7 +60,7 @@ If you roll lower than a 10 on any ability check that you have expertise in, you
 This weapon becomes a +2 magic weapon
 
 ### Arsenal of Arrows
-When you make an attack with this bow you can choose to make it with a special arrow, you must specify before you roll for the attack. Each arrow has different effects and you choose what kind of arrow to shoot when you make the attack. You make an attack roll as normal, if the attack hits then the effects of the arrow are applied. If the arrow requires a saving throw the DC is equal to 8 + your proficiency bonus + your Wisdom modifier. If the attack was a critical hit, the target has disadvantage on the saving throw. The types of arrows you can choose from are listed below.
+When you make an attack with this bow you can choose to make it with a special arrow, you must specify before you roll for the attack. Each arrow has different effects and you choose what kind of arrow to shoot when you make the attack. You make an attack roll as normal, if the attack hits then the effects of the arrow are applied. If the arrow requires a saving throw the DC is equal to 8 + your proficiency bonus + your Wisdom modifier. If the attack was a critical hit, the target has disadvantage on any saving throws from the arrow. The types of arrows you can choose from are listed below.
 - **Paralytic Arrow:** A creature hit by this arrow must make a constitution save or be paralyzed for 1 minute. They can make a new saving throw at the end of each of their subsequent turns
 - **Sticky Arrow:** The creature is rooted to the ground. Their speed becomes zero. If they are prone they cannot stand up. The creature can make a strength check equal to the DC in order to break free.
 
