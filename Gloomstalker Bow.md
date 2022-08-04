@@ -6,8 +6,8 @@ Level|Features|Reliable Talent
 ---|---|---
 4|Sharpshooter, Wisdom of the Earth, Reliable Talent | 5 or lower on any check with expertise
 6|Magically Stealthy, Surprise Attack, Insightful Fighting| 5 or lower on any check with proficiency
-8|Improved Blessing of the Raven Queen, Improved Favored Enemy, Oracle Shot| 10 or lower on any check with expertise
-10|Remarkable Precision| 10 or lower on any check with proficiency
+8|Improved Blessing of the Raven Queen, Improved Favored Enemy, Oracle Shot| 10 or lower on any stealth check
+10|Remarkable Precision| 10 or lower on any [___] check
 
 ## Level 4:
 ### Sharpshooter
@@ -18,43 +18,54 @@ You have mastered ranged weapons and can make shots that others find impossible.
 
 ### Wisdom of the Earth
 This bow allows the user to attune to the land around it and hear the whispers of all living things giving them guidance. You gain the following benefits:
-- You can add your wisdom modifier to any intelligence checks that you are proficient with.
+- You can add your wisdom modifier to any intelligence checks to discern the fighting patterns of an enemy.
 - You gain the ability to see in magical darkness as if it were normal darkness.
+
+### Monster Hunter
+You gain proficiency with monster hunters tool's. You gain the following benefits:
+- 
+
+### Favored Foe
+You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter's mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+When you gain the Spellcasting feature at 2nd level, hunter's mark doesn't count against the number of ranger spells you know.
 
 ### Reliable Talent
 The bow requires extreme accuracy from its wielder in all things. You gain the following benefits:
 - If you roll lower than a 5 on any ability check that you have expertise in, you treat the roll as if it were a 5.
-- You gain expertise in two skills of your choice.
-- You gain proficiency in two skills of your choice
+- You gain expertise in one skill of your choice.
 
 ## Level 6:
 This weapon becomes a +1 magic weapon
 
 ### Magically Stealthy
-You learn the Prestidigitation and Minor Illusion cantrips. In addition you always have Pass without Trace prepared and can cast it once per day without spending a spell slot
+You learn the Prestidigitation and Minor Illusion cantrips. In addition you know Pass without Trace and it does not count against your spells known.
 
 ### Surprise Attack
 You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, any hit you score against a creature that is surprised is a critical hit.
 
 ### Insightful Fighting
-Choose one creature you can see. As a bonus action, you can make an investigation check opposed by the creatures deception check. If you succeed you learn one piece of information from that enemies statblock.
+Choose one creature you can see. As a bonus action, you can make an insight check opposed by the creatures deception check. If you succeed you learn how the creature fights. This feature can be used once if the creature is not in combat, or as many times as you wish if they are engaged in combat. If the insight requires an attack it applies to the next attack you make on this turn. You can choose one of the following insights to learn about the creature:
+- **Sharpshooter:** Your penalty for using sharpshooter decreases by 1. This effect can stack up to 3 times.
+- **Disarm:** A creature can use a weapon attack to knock a weapon or another item from a target’s grasp. The attacker makes an attack roll contested by the target’s Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes damage to be halved and the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
+- **Trip:**
+- **Distract:**
 
 ### Reliable Talent Improvement
-If you roll lower than a 5 on any ability check that you have proficiency in, you treat the roll as if it were a 5. In addition you gain proficiency in a skill of your choice
+If you roll lower than a 5 on any ability check that you have proficiency in, you treat the roll as if it were a 5. In addition you gain expertise in a skill of your choice
 
 ## Level 8:
 ### Improved Blessing of the Raven Queen
-You can use Blessing of the Raven without spending a use if the point you are teleporting from and to are in dark light.
+You can use Blessing of the Raven without spending a use if the point you are teleporting from and to are both in dark light.
 
 ### Improved Favored Enemy:
-Whenever you attack a favored enemy you deal an additional 2d6 damage.
+Whenever you attack a favored enemy you deal an additional 5 damage.
 
 ### Oracle Shot
 As an action you may shoot an arrow from this bow. You may magically project your senses through the arrow that was fired. For 10 minutes you can see and hear as if from the arrow.
 
-### Reliable Talent Improvement
-If you roll lower than a 10 on any ability check that you have expertise in, you treat the roll as if it were a 10. In addition you gain expertise in a skill of your choice
-
+### Unerring Skill
+Choose one ability that you have expertise in. If you roll lower than a 10 on any ability check that uses that skill, you treat the roll as if it were a 10.
 
 ## Level 10:
 This weapon becomes a +2 magic weapon
@@ -64,8 +75,12 @@ When you make an attack with this bow you can choose to make it with a special a
 - **Paralytic Arrow:** A creature hit by this arrow must make a constitution save or be paralyzed for 1 minute. They can make a new saving throw at the end of each of their subsequent turns
 - **Sticky Arrow:** The creature is rooted to the ground. Their speed becomes zero. If they are prone they cannot stand up. The creature can make a strength check equal to the DC in order to break free.
 
+### Extra Attack
+(Only if you get a second extra attack class feature)
+When you take the attack action you can attack 3 times instead of 2.
+
 ### Remarkable Precision
 When you attack with this weapon you score a critical hit on a 19 or 20.
 
-### Reliable Talent Improvement
-If you roll lower than a 10 on any ability check that you have proficiency in, you treat the roll as if it were a 10. In addition you gain proficiency in a skill of your choice.
+### Unerring Skill Improvement
+Choose another skill that you have expertise with. That skill now also works with unerring skill
