@@ -30,7 +30,7 @@ The bow requires extreme accuracy from its wielder in all things. You gain the f
 ## Level 6:
 This weapon becomes a +1 magic weapon
 
-### Magically Stealthly
+### Magically Stealthy
 You learn the Prestidigitation and Minor Illusion cantrips. In addition you always have Pass without Trace prepared and can cast it once per day without spending a spell slot
 
 ### Surprise Attack
@@ -58,6 +58,11 @@ If you roll lower than a 10 on any ability check that you have expertise in, you
 
 ## Level 10:
 This weapon becomes a +2 magic weapon
+
+### Arsenal of Arrows
+When you make an attack with this bow you can choose to make it with a special arrow, you must specify before you roll for the attack. Each arrow has different effects and you choose what kind of arrow to shoot when you make the attack. You make an attack roll as normal, if the attack hits then the effects of the arrow are applied. If the arrow requires a saving throw the DC is equal to 8 + your proficiency bonus + your Wisdom modifier. If the attack was a critical hit, the target has disadvantage on the saving throw. The types of arrows you can choose from are listed below.
+- **Paralytic Arrow:** A creature hit by this arrow must make a constitution save or be paralyzed for 1 minute. They can make a new saving throw at the end of each of their subsequent turns
+- **Sticky Arrow:** The creature is rooted to the ground. Their speed becomes zero. If they are prone they cannot stand up. The creature can make a strength check equal to the DC in order to break free.
 
 ### Remarkable Precision
 When you attack with this weapon you score a critical hit on a 19 or 20.
