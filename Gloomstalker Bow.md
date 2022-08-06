@@ -1,5 +1,15 @@
 # Origin:
-This bow of black wood was crafted by an arch-druid. The druid knew of Strahd's plans to overtake borovia and sent this bow in hopes that it could be used to defeat him.
+This bow was crafted by The Raven Queen in order to defeat Strahd. It contains primal magics that connect the wielder to the land around them. The land whisper guidance and insight to the wielder
+
+There speaks a prophecy about a group of adventurers that finally defeat Strahd. The bow wants to find these people and guide them to defeating Strahd.
+
+A man who speaks for a silent god
+A woman who blends two magics long thought un-mergeable
+Someone who makes fire their ally
+Another who wields all elements equally
+
+A much deeper look at these prophecies reveal another, less known member
+A coach who guides them along the way
 
 # Features
 Level|Features|Reliable Talent
@@ -8,6 +18,15 @@ Level|Features|Reliable Talent
 6|Magically Stealthy, Surprise Attack, Insightful Fighting| 5 or lower on any check with proficiency
 8|Improved Blessing of the Raven Queen, Improved Favored Enemy, Oracle Shot| 10 or lower on any stealth check
 10|Remarkable Precision| 10 or lower on any perception check
+
+## Expanded Spell List
+The below spells are always known and prepared. If the spell has the ritual tag (<sub>R</sub>) you can cast it as a ritual
+Character Level | Spell Level | Grave Cleric | Ranger
+---|---|--- | ---
+ 4  | Cantrip | Spare the dying | Prestidigitation
+ 6  | 2nd     | Silence<sub>R</sub> | Pass without trace
+ 8  | 3rd     | Revivify | Protection from energy
+ 10 | 4th     | Death Ward | Swift Quiver
 
 ## Level 4:
 ### Sharpshooter
@@ -19,11 +38,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 ### Wisdom of the Earth
 This bow allows the user to attune to the land around it and hear the whispers of all living things giving them guidance. You gain the following benefits:
 - You gain the ability to see in magical darkness as if it were normal darkness.
-- When an ally within 30 feet of you makes a skill check, you can share the wisdom you have learned. They may add a d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier. This resets on a long rest
-
-### Monster Hunter
-You gain proficiency with monster hunters tool's. You gain the following benefits:
-- 
+- When an ally within 30 feet of you makes a skill check, you can share the wisdom you have learned by projecting the whispers into their ears. They may add a d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier. This resets on a long rest
 
 ### Favored Foe
 You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter's mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
@@ -38,11 +53,13 @@ The bow requires extreme accuracy from its wielder in all things. You gain the f
 ## Level 6:
 This weapon becomes a +1 magic weapon
 
-### Magically Stealthy
-You learn the Prestidigitation and Minor Illusion cantrips. In addition you know Pass without Trace and it does not count against your spells known.
+### Magically Focused
+Your fighter levels count as ranger levels for the purposes of spell progression
 
 ### Initiating Strike
 You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, the first attack you make as part of the attack action is automatically a critical hit. If you hit a creature in this way you can command an ally to spend their reaction to move up to their movement and make a single attack.
+
+*Note: This could potentially proc twice on separate turns depending on how we run surprise rounds. If we play it as we surprise someone who is unaware and there is a surprise round where they do not go. Then it is possible since the ability triggers if the enemy hasn't taken their turn*
 
 ### Insightful Fighting
 Choose one creature you can see. As a bonus action, you can make an insight check opposed by the creatures deception check. If you succeed you learn how the creature fights. This feature can be used once if the creature is not in combat, or as many times as you wish if they are engaged in combat. If the insight requires an attack it applies to the next attack you make on this turn. You can choose one of the following insights to learn about the creature:
@@ -61,6 +78,9 @@ If you roll lower than a 5 on any ability check that you have proficiency in, yo
 ### Improved Favored Enemy:
 Whenever you attack a favored enemy you deal an additional 5 damage.
 
+### Raven Queen's Gift
+For the purposes of spell progression you are counted as having one extra cleric level
+
 ### Oracle Shot
 As an action you may shoot an arrow from this bow. You may magically project your senses through the arrow that was fired. For 10 minutes you can see and hear as if from the arrow.
 
@@ -75,9 +95,8 @@ When you make an attack with this bow you can choose to make it with a special a
 - **Paralytic Arrow:** A creature hit by this arrow must make a constitution save or be paralyzed for 1 minute. They can make a new saving throw at the end of each of their subsequent turns
 - **Sticky Arrow:** The creature is rooted to the ground. Their speed becomes zero. If they are prone they cannot stand up. The creature can make a strength check equal to the DC in order to break free.
 
-### Extra Attack
-(Only if you get a second extra attack class feature)
-When you take the attack action you can attack 3 times instead of 2.
+### Swift Quiver
+The Swift Quiver spell can be cast using a 4th level spell slot
 
 ### Remarkable Precision
 When you attack with this weapon you score a critical hit on a 19 or 20.
