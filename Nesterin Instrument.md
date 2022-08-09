@@ -1,0 +1,6 @@
+When using unsettling words, make an intimidation check (with proficiency) vs the opponents wisdom save. If you succeed, roll the inspiration die. That roll applies not only to the next saving throw but also the next attack roll
+
+### Shapechanger
+As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait.
+
+8 charges. When you use this feature you spend one charge and another charge for each hour you spend in a form that is not your base form. For each hour you spend in your base form you regain one charge.

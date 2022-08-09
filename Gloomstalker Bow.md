@@ -14,14 +14,14 @@ A coach who guides them along the way
 # Features
 Level|Features|Reliable Talent
 ---|---|---
-4|Sharpshooter, Wisdom of the Earth, Reliable Talent | 5 or lower on any check with expertise
-6|Magically Stealthy, Surprise Attack, Insightful Fighting| 5 or lower on any check with proficiency
-8|Improved Blessing of the Raven Queen, Improved Favored Enemy, Oracle Shot| 10 or lower on any stealth check
-10|Remarkable Precision| 10 or lower on any perception check
+4|Sharpshooter, Wisdom of the Earth, Favored Foe, Reliable Talent | 5 or lower on any check with expertise
+6|Magically Focused, Initiating Strike, Insightful Fighting, Expose Weakness| 5 or lower on any check with proficiency
+8|Improved Favored Enemy, Raven Queen's Gift, Oracle Shot| 10 or lower on any stealth check
+10| Arsenal of Arrows, Swift Quiver, Remarkable Precision| 10 or lower on any perception check
 
 ## Expanded Spell List
 The below spells are always known and prepared. If the spell has the ritual tag (<sub>R</sub>) you can cast it as a ritual
-Character Level | Spell Level | Grave Cleric | Ranger
+Level | Spell Level | Grave Cleric | Ranger
 ---|---|--- | ---
  4  | Cantrip | Spare the dying | Prestidigitation
  6  | 2nd     | Silence<sub>R</sub> | Pass without trace
@@ -38,6 +38,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 ### Wisdom of the Earth
 This bow allows the user to attune to the land around it and hear the whispers of all living things giving them guidance. You gain the following benefits:
 - You gain the ability to see in magical darkness as if it were normal darkness.
+- You gain a +1 bonus to all wisdom checks
 - When an ally within 30 feet of you makes a skill check, you can share the wisdom you have learned by projecting the whispers into their ears. They may add a d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier. This resets on a long rest
 
 ### Favored Foe
@@ -59,17 +60,17 @@ Your fighter levels count as ranger levels for the purposes of spell progression
 ### Initiating Strike
 You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, the first attack you make as part of the attack action is automatically a critical hit. If you hit a creature in this way you can command an ally to spend their reaction to move up to their movement and make a single attack.
 
-*Note: This could potentially proc twice on separate turns depending on how we run surprise rounds. If we play it as we surprise someone who is unaware and there is a surprise round where they do not go. Then it is possible since the ability triggers if the enemy hasn't taken their turn*
+*Note: This could potentially proc up to three times over two separate turns depending on how we run surprise rounds and if I have action surge. If we play it as we surprise someone who is unaware and there is a surprise round where they do not go. Then it is possible to attack, action surge attack, then the first actual round starts and if I have a higher initiative it can proc again*
 
 ### Insightful Fighting
-Choose one creature you can see. As a bonus action, you can make an insight check opposed by the creatures deception check. If you succeed you learn how the creature fights. This feature can be used once if the creature is not in combat, or as many times as you wish if they are engaged in combat. If the insight requires an attack it applies to the next attack you make on this turn. You can choose one of the following insights to learn about the creature:
+Choose one creature you can see. As a bonus action, you can make an insight check opposed by the creatures deception check. If you succeed you learn how the creature fights. You learn the creatures armor class. You also gain the benefits listed below. This feature can be used once if the creature is not in combat, or as many times as you wish if they are engaged in combat. If the insight requires an attack it applies to the next attack you make on this turn. You can choose one of the following insights to learn about the creature:
 - **Sharpshooter:** Your penalty for using sharpshooter decreases by 1. This effect can stack up to 3 times.
 - **Disarm:** You can use a weapon attack to knock a weapon or another item from a target’s grasp. You make an attack roll contested by the target’s Strength (Athletics) check or Dexterity (Acrobatics) check. If the attacker wins the contest, the attack causes damage to be halved and the defender drops the item. The attacker has disadvantage on its attack roll if the target is holding the item with two or more hands. The target has advantage on its ability check if it is larger than the attacking creature, or disadvantage if it is smaller.
 - **Trip:**
 - **Distract:**
 
 ### Expose Weakness
-When you have successfully used your insightful fighting against one enemy twice, you can share your insights on their weaknesses with an ally. The next ally to make an attack against that creature does so with advantage. [Or add 1d6??]
+When you have successfully used your insightful fighting against one enemy twice, as part of the bonus action to study them you can share your insights on their weaknesses with an ally. The next ally to make an attack against that creature does so with advantage. [Or add 1d6??]
 
 ### Reliable Talent Improvement
 If you roll lower than a 5 on any ability check that you have proficiency in, you treat the roll as if it were a 5. In addition you gain expertise in a skill of your choice
@@ -85,6 +86,7 @@ For the purposes of spell progression you are counted as having one extra cleric
 As an action you may shoot an arrow from this bow. You may magically project your senses through the arrow that was fired. For 10 minutes you can see and hear as if from the arrow.
 
 ### Unerring Skill
+I choose Stealth
 Choose one ability that you have expertise in. If you roll lower than a 10 on any ability check that uses that skill, you treat the roll as if it were a 10.
 
 ## Level 10:
@@ -102,4 +104,5 @@ The Swift Quiver spell can be cast using a 4th level spell slot
 When you attack with this weapon you score a critical hit on a 19 or 20.
 
 ### Unerring Skill Improvement
+I choose perception
 Choose another skill that you have expertise with. That skill now also works with unerring skill
