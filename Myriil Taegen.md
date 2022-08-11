@@ -18,10 +18,10 @@ Fighter 3
 Fighter levels count as ranger levels for the purposes of spell progression
 At [level 8](Gloomstalker%20Bow#Level%208) you are treated as though you have an extra level in cleric for the purpose of spell progression
 
-Level | Class | Multiclassing Level | Effecive Level Split |Note 
+Level | Class | Multiclassing Level | Effective Level Split |Note 
 ---- | ------- | --- | --- | ---
 1-5  | Ranger  | --- | Ranger 5
-6-7  | Fighter | --- | Ranger 6-7
+6-7  | Fighter | --- | Ranger 6-7 | Fighter levels are counted as Ranger Levels
 8th  | Cleric  | 5th | R7/C2 | Bow gives extra level treated as cleric 2
 9th  | Cleric  | 6th | R7/C3 | Bow gives extra level treated as cleric 3
 10th | Fighter | 7th | R8/C3 | Bow gives extra level treated as cleric 3

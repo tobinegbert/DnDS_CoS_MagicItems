@@ -29,6 +29,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 This bow allows the user to attune to the land around it and hear the whispers of all living things giving them guidance. You gain the following benefits:
 - You gain the ability to see in magical darkness as if it were normal darkness.
 - You gain a +1 bonus to all wisdom skill checks
+- [Jack of all trades?]
 - When an ally within 30 feet of you makes a skill check, you can share the wisdom you have learned by projecting the whispers into their ears. They may add a d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier. This resets on a long rest
 
 ### Favored Foe
@@ -48,7 +49,7 @@ This weapon becomes a +1 magic weapon
 Your fighter levels count as ranger levels for the purposes of spell progression
 
 ### Initiating Strike
-You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, if the target hadn't taken a turn in combat, the first attack you make as part of the attack action is automatically a critical hit. If you hit a creature in this way you can command an ally to spend their reaction to move up to their movement and make a single attack.
+You are at your deadliest when you get the drop on your enemies. You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. In addition, if the target hasn't taken a turn in combat, the first attack you make as part of the attack action is automatically a critical hit. If you hit a creature in this way you can grant an opening to an ally allowing them to use their reaction to move up to their movement and make a single attack.
 
 *Note: This could potentially proc up to three times over two separate turns depending on how we run surprise rounds and if I have action surge. If we play it as we surprise someone who is unaware and there is a surprise round where they do not go. Then it is possible to attack, action surge attack, then the first actual round starts and if I have a higher initiative it can proc again*
 
@@ -60,7 +61,7 @@ Choose one creature you can see. As a bonus action, you can make an insight chec
 - **Distract:**
 
 ### Expose Weakness
-When you have successfully used your insightful fighting against one enemy twice, as part of the bonus action to study them you can share your insights on their weaknesses with an ally. The next ally (excluding you) to make an attack against that creature does so with advantage. [Or add 1d6??]
+When you have successfully used your insightful fighting against one enemy twice, as part of the bonus action to study them you can share your insights on their weaknesses with an ally. The next ally (excluding you) to make an attack against that creature does so with advantage. [Or add 1d6?]
 
 ### Reliable Talent Improvement
 If you roll lower than a 5 on any ability check that you have proficiency in, you treat the roll as if it were a 5. 
@@ -78,8 +79,7 @@ For the purposes of spell progression you are counted as having one additional c
 As an action you may shoot an arrow from this bow. You may magically project your senses through the arrow that was fired. For 10 minutes you can see and hear as if from the arrow. You can do this a number of times per day equal to your [proficiency or wisdom] modifier
 
 ### Unerring Skill
-I choose Stealth
-Choose one ability that you have expertise in. If you roll lower than a 10 on any ability check that uses that skill, you treat the roll as if it were a 10.
+Choose one ability that you have expertise in (stealth). If you roll lower than a 10 on any ability check that uses that skill, you treat the roll as if it were a 10.
 
 ## Level 10:
 This weapon becomes a +2 magic weapon
@@ -90,11 +90,10 @@ When you make an attack with this bow you can choose to make it with a special a
 - **Sticky Arrow:** The creature is rooted to the ground. Their speed becomes zero. If they are prone they cannot stand up. The creature can make a strength check equal to the DC in order to break free.
 
 ### Swift Quiver
-The Swift Quiver spell can be cast using a 4th level spell slot
+You can cast the Swift Quiver spell using a 4th level spell slot
 
 ### Remarkable Precision
 When you attack with this weapon you score a critical hit on a 19 or 20.
 
 ### Unerring Skill Improvement
-I choose perception
-Choose another skill that you have expertise with. That skill now also works with unerring skill
+Choose another skill (perception) that you have expertise with. That skill now also works with unerring skill
