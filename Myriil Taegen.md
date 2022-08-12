@@ -1,5 +1,5 @@
 # Backstory:
-A 500 year old shadar kai sent by the Raven Queen to stop Strahd and his abominations. When he was sent on this mission he was given a [weapon](Gloomstalker%20Bow) from the Raven Queen
+A 527 year old shadar kai sent by the Raven Queen to stop Strahd and his abominations. When he was sent on this mission he was given a [weapon](Gloomstalker%20Bow) from the Raven Queen
 
 He knows the true signs of the adventures who will defeat Strahd. He knows they have not come until he meets the current party.
 

@@ -9,7 +9,7 @@ Level| Charges |Features
 6 | 2 | Extended Breath, Powerful Breath, Draconic Take Off
 8 | 3 | Persistent Breath, Improved Powerful Breath
 10| 4 | Improved Persistent Breath, Greater Powerful Breath, Breath of Paralysis
-
+[I would recommend more charges for this item, or maybe they recharge on a short rest?]
 
 ## Level 4
 ### Draconic Fury:

@@ -25,7 +25,7 @@ If an enemy enters the killing field expend x charges or a reaction to make an a
 #### Spell Shield
 *This feature can only be used in the protector armor*
 
-When an ally is within a [Combat Patrol](Artificer%20Magic%20Tower%20Shield.md#Combat%20Patrol) and is subjected to an Area of Effect Dexterity save, spend x charges or a reaction to move next to them and grant them the rogue's evasion feature
+When an ally is within a Combat Patrol and is subjected to an Area of Effect Dexterity save, spend x charges or a reaction to move next to them and grant them the rogue's evasion feature
 
 #### Evasion
 *This feature can only be used in the infiltrator armor*
