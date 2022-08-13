@@ -1,23 +1,16 @@
 # Origin:
 This bow was crafted by The Raven Queen in order to defeat Strahd. It contains primal magics that connect the wielder to the land around them. The land whisper guidance and insight to the wielder
 
-Made for [[Ongoing D&D/Strahd/Party/Myriil Taegen]]
 # Features
-Level|Features|Reliable Talent
----|---|---
-4|Sharpshooter, Wisdom of the Earth, Favored Foe, Reliable Talent | 5 or lower on any check with expertise
-6|Magically Focused, Initiating Strike, Insightful Fighting, Expose Weakness| 5 or lower on any check with proficiency
-8|Improved Favored Enemy, Raven Queen's Gift, Oracle Shot| 10 or lower on any stealth check
-10| Arsenal of Arrows, Swift Quiver, Remarkable Precision| 10 or lower on any perception check
+Level | Features | Reliable Talent | Spell Level | Spell 
+--- | ---| --- | --- | ---
+4|Sharpshooter, Wisdom of the Earth, Favored Foe, Reliable Talent  | 5 or lower on any check with expertise| Cantrip | Prestidigitation 
+6|Magically Focused, Initiating Strike, Insightful Fighting, Expose Weakness | 5 or lower on any check with proficiency|  2nd     | Pass without trace
+8|Improved Favored Enemy, Raven Queen's Gift, Oracle Shot| 10 or lower on any stealth check | 3rd     | Revivify
+10| Arsenal of Arrows, Swift Quiver, Remarkable Precision| 10 or lower on any perception check | 4th     | Swift Quiver 
 
 ## Expanded Spell List
-The below spells are always known and prepared.
-Level | Spell Level | Spell
----|---|--- 
- 4  | Cantrip | Prestidigitation
- 6  | 2nd     | Pass without trace
- 8  | 3rd     | Revivify
- 10 | 4th     | Death Ward 
+You learn spells as shown in the table above. You always know these spells and have them prepared.
  
 ## Level 4:
 ### Sharpshooter
@@ -29,7 +22,7 @@ You have mastered ranged weapons and can make shots that others find impossible.
 ### Wisdom of the Earth
 This bow allows the user to attune to the land around it and hear the whispers of all living things giving them guidance. You gain the following benefits:
 - You gain the ability to see in magical darkness as if it were normal darkness.
-- Whenever you or an ally within 30 feet of you makes a skill check, the earth can share its wisdom by projecting it's whispers into their ears. You can spend a reaction to allow that creature to add 1d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier [level?]. This resets on a long rest
+- Whenever you or an ally within 30 feet of you makes a skill check, the earth can share its wisdom by projecting it's whispers into their ears. You can spend a reaction to allow that creature to add 1d6 to the skill check. You may use this feature a number of times equal to your wisdom modifier. This resets on a shortrest
 
 ### Favored Foe
 You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the hunter's mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot and without requiring concentration—a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
@@ -74,9 +67,6 @@ When you hit a creature with your initiating shot feature you can grant an openi
 
 ### Raven Queen's Gift
 For the purposes of spell progression you are counted as having one additional cleric level
-
-### Oracle Shot
-As an action you may shoot an arrow from this bow. You may magically project your senses through the arrow that was fired. For 10 minutes you can see and hear as if from the arrow. You can do this a number of times per day equal to your [proficiency or wisdom] modifier
 
 ### Unerring Skill
 Choose one ability that you have expertise in (stealth). If you roll lower than a 10 on any ability check that uses that skill, you treat the roll as if it were a 10.
